@@ -9,9 +9,3 @@ function bubble_sort(arr: number[]): void {
     }
   }
 }
-
-const array = [2, 34, 5, 12, 325, 32];
-
-bubble_sort(array);
-
-console.log(array);
